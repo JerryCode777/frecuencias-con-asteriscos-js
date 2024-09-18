@@ -4,11 +4,12 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #06063b;
+    
 }
 
 h1 {
-    color: #333;
+    color: #fcfcfc;
 }
 
 form {
@@ -37,7 +38,7 @@ input[type="number"] {
 }
 
 button {
-    background-color: #007bff;
+    background-color: #142f4c;
     color: #fff;
     border: none;
     padding: 10px 20px;
